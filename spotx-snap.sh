@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#ngojepa
 set -euo pipefail
 
 clr='\033[0m'
